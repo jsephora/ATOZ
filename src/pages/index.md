@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: ATOZ Blog with Joey Sephora
+image: /img/desktop1.jpg
+heading: ATOZ Blog with Joey Sephora
+subheading: Bloody hell this is a heck of blog, wow!
 mainpitch:
   title: Why Kaldi
   description: >
